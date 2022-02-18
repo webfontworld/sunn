@@ -1,6 +1,6 @@
 # 수트(SUIT)
 
-<a href="https://wess.tistory.com/250" target="_blank">
+<a href="https://wess.tistory.com" target="_blank">
     <img src="https://webfontworld.github.io/sunn/SUIT.jpg" alt="SUIT" style="width:300px">
 </a>
 
